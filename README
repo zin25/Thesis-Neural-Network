@@ -1,0 +1,3 @@
+VGG16 - ResNet50
+
+Ini adalah tugas skripsi, dan ini adalah hasil perbandingan dari 2 arsitektur neural network, antara VGG16 dan ResNet50 untuk mengklasifikasi tulisan tangan aksara lampung, hasil akhirnya adalah VGG16 lebih baik dalam mengenali tulisan tangan aksara lampung, karena VGG dataset yang di pakai tidak begitu kompleks, yang dimana tidak memerlukan arsitektur yang dalam seperti ResNet50 yang memiliki banyak lapisan layer, ini dapat telah saya buktikan dengan membuat arsitektur CNN custom yang hanyak memiliki beberapa layer, dan akurasi yang di hasilkan arsitekur custom lebih baik dari keduanya sebesar 95% sedangkan VGG16 hanya 86% dan di ikuti ResNet50 sebesar 65%
